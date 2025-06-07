@@ -14,5 +14,4 @@ A terceira página discute como a conectividade entre campo e cidade acontece, s
 Na última página, o foco é na produção agrícola e no uso sustentável da água. São destacadas práticas modernas de cultivo, a importância da preservação dos recursos hídricos e o impacto da agropecuária na economia. Também apresentamos estratégias para o uso consciente da água, garantindo um futuro mais equilibrado.
 
 
-🔹 O site "Festejando Conexão Campo-Cidade" é interativo e informativo, permitindo que os visitantes explorem conteúdos educativos e descubram mais sobre a importância da integração entre o meio rural e urbano. Tudo isso com um design intuitivo e acessível, garantindo uma experiência envolvente para todos! 🚀
-Se precisar de mais ajustes ou quiser um tom mais formal ou descontraído, me avise! 😊✨
+🔹 O site "Festejando Conexão Campo-Cidade" é interativo e informativo, permitindo que os visitantes explorem conteúdos educativos e descubram mais sobre a importância da integração entre o meio rural e urbano. Tudo isso com um design intuitivo e acessível, garantindo uma experiência envolvente para todos! 
